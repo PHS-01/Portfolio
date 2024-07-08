@@ -1,0 +1,3 @@
+Comecei a fazer a base das seçoes do site. 
+Não usarei css puro pois o bootstrap é melhor na minha opinião, mas se necessario usar usarei.
+Criei uma pasta para amazenar as imgs é recursos visuais que usarei. OBS: Ainda não fiz mas o formato sera vetoreial
